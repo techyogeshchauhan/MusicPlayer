@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string name="menu_allsong">All songs</string>
+    <string name="menu_fav">Favorites</string>
+    <string name="menu_setting">Settings</string>
+    <string name="menu_about">About us</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Hello_blank_fragment">Blank Fragment</string>
+</resources>
